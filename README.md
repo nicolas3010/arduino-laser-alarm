@@ -1,7 +1,7 @@
 # arduino-laser-alarm
  noise when blocking the laser
 
- following the step by step of autocore I managed to carry out the project successfully
+ following the step by step of robocore I managed to carry out the project successfully
 
 
 materials
